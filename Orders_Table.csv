@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_ID,Product_Category,Sales,Quantity,Profit,Discount,customer_name,Region,Segment
+1,02-04-2026,101,Furniture,5000,2,500,10,Amit Sharma,North,Consumer
+2,03-01-2026,102,Technology,12000,1,2000,5,Priya Singh,South,Corporate
+3,05-01-2026,103,Office Supplies,800,5,100,2,Rahul Verma,East,Home Office
+4,07-01-2026,104,Furniture,7000,3,700,8,Neha Gupta,West,Consumer
+5,10-01-2026,105,Technology,15000,2,3000,12,Rohit Kumar,North,Corporate
+6,12-01-2026,101,Office Supplies,600,4,80,3,Amit Sharma,North,Consumer
+7,15-01-2026,106,Furniture,9000,2,1200,7,Sneha Patel,South,Consumer
+8,18-01-2026,107,Technology,20000,1,4000,15,Vikas Yadav,East,Home Office
+9,20-01-2026,108,Office Supplies,1200,6,150,4,Pooja Mehta,West,Consumer
+10,22-01-2026,109,Furniture,11000,3,1500,9,Arjun Singh,North,Corporate
+11,25-01-2026,110,Technology,18000,2,3500,10,Kavita Joshi,South,Consumer
+12,27-01-2026,111,Furniture,9500,1,1200,6,Deepak Mishra,East,Corporate
+13,29-01-2026,112,Office Supplies,700,3,90,2,Anjali Verma,West,Home Office
+14,01-02-2026,113,Technology,22000,2,5000,15,Manish Gupta,North,Consumer
+15,03-02-2026,114,Furniture,10500,4,1600,8,Swati Singh,South,Corporate
+16,05-02-2026,115,Office Supplies,1300,6,200,5,Rakesh Yadav,East,Consumer
+17,07-02-2026,116,Technology,25000,3,6000,12,Nisha Sharma,West,Home Office
+18,09-02-2026,117,Furniture,8000,2,900,7,Aman Kumar,North,Consumer
+19,11-02-2026,118,Office Supplies,900,4,120,3,Shreya Patel,South,Corporate
+20,13-02-2026,119,Technology,30000,1,8000,18,Karan Mehta,East,Home Office
+21,15-02-2026,120,Furniture,12000,3,2000,9,Divya Singh,West,Consumer
+22,17-02-2026,121,Technology,27000,2,7000,14,Harsh Verma,North,Corporate
+23,19-02-2026,122,Office Supplies,1500,5,250,4,Simran Kaur,South,Consumer
+24,21-02-2026,123,Furniture,14000,2,2200,10,Aditya Sharma,East,Home Office
+25,23-02-2026,124,Technology,32000,1,9000,20,Meena Gupta,West,Corporate
+26,25-02-2026,125,Furniture,16000,2,3000,11,Sanjay Kumar,North,Consumer
+27,27-02-2026,126,Technology,35000,3,10000,18,Ritu Singh,South,Home Office
+28,01-03-2026,127,Office Supplies,1800,6,300,5,Pankaj Yadav,East,Corporate
+29,03-03-2026,128,Furniture,12500,2,2100,9,Rekha Patel,West,Consumer
+30,05-03-2026,129,Technology,40000,1,12000,22,Ankit Verma,North,Home Office
+31,07-03-2026,130,Office Supplies,2000,5,350,6,Komal Sharma,South,Consumer
+32,09-03-2026,131,Furniture,17000,3,3200,10,Gaurav Singh,East,Corporate
+33,11-03-2026,132,Technology,45000,2,15000,20,Payal Gupta,West,Home Office
+34,13-03-2026,133,Office Supplies,2200,7,400,5,Nitin Kumar,North,Consumer
+35,15-03-2026,134,Furniture,13500,2,2500,8,Sakshi Verma,South,Corporate
+36,17-03-2026,135,Technology,38000,2,11000,17,Rajesh Yadav,East,Consumer
+37,19-03-2026,136,Office Supplies,2500,8,450,6,Preeti Sharma,West,Home Office
+38,21-03-2026,137,Furniture,15000,3,2700,9,Mohit Singh,North,Consumer
+39,23-03-2026,138,Technology,42000,1,13000,21,Riya Patel,South,Corporate
+40,25-03-2026,139,Office Supplies,2700,6,500,7,Sumit Gupta,East,Home Office
+41,27-03-2026,140,Furniture,18000,2,3500,12,Anu Mehta,West,Consumer
+42,29-03-2026,141,Technology,50000,3,16000,25,Tarun Sharma,North,Corporate
+43,30-03-2026,142,Office Supplies,3000,7,600,8,Isha Singh,South,Consumer
+44,01-04-2026,143,Furniture,20000,3,4000,10,Lokesh Verma,East,Home Office
+45,02-04-2026,144,Technology,55000,2,18000,23,Kiran Gupta,West,Corporate
+46,03-04-2026,145,Office Supplies,3200,6,700,9,Ajay Kumar,North,Consumer
+47,04-04-2026,146,Furniture,21000,2,4200,11,Neetu Singh,South,Home Office
+48,05-04-2026,147,Technology,60000,1,20000,26,Vivek Yadav,East,Corporate
+49,06-04-2026,148,Office Supplies,3500,8,800,10,Sonal Patel,West,Consumer
+50,07-04-2026,149,Furniture,23000,3,5000,12,Ravi Sharma,North,Home Office
